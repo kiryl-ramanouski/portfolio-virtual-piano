@@ -1,2 +1,1 @@
-# portfolio-virtual-piano
-HTML, CSS, JS
+# Deploy: https://whitekvazar.github.io/portfolio-virtual-piano/virtual-piano/
